@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Disney+ HotStar",
+    "imageSrc": "projects/project.png",
+    "description": "Project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript", "Html"],
+    "demo": "https://saggyintoit.github.io/Disney-Hotstart/index.html",
+    "source": "hhttps://github.com/SaggyintoIT/Disney-Hotstart?tab=readme-ov-file"
+  },
+  {
+    "title": "Fake Store",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript", "Html"],
+    "demo": "https://fake-store-smoky-three.vercel.app/",
+    "source": "https://github.com/SaggyintoIT/FakeStore"
+  },
+  {
+    "title": "Family Welness",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript", "Html"],
+    "demo": "https://my-react-js-eight.vercel.app/",
+    "source": "https://github.com/SaggyintoIT/MYReactJS/tree/main/Hootauite"
+  }
+]
